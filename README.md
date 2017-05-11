@@ -1,5 +1,6 @@
 # Blockchain Demo
 A web-based demonstration of blockchain concepts.
+理解区块链的最好资料
 
 [![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
 
