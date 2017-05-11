@@ -15,7 +15,7 @@ the idea of an immutable ledger using an interactive web demo that is available 
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/yguo/blockchain-demo.git
 ```
 
 Install dependencies:
